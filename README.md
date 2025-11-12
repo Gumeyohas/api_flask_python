@@ -19,11 +19,11 @@ Tudo isso sem utilizar um banco de dados real, apenas manipulando uma lista de d
 
 ## 🧩 Estrutura do Projeto
 
-📂 api-carros
-┣ 📜 main.py # Arquivo principal, inicializa o servidor Flask e define as rotas
-┣ 📜 bd.py # "Banco de dados" simulado com uma lista de dicionários
-┣ 📜 requirements.txt # Dependências do projeto
-┗ 📜 README.md # Este arquivo 😄
+📂 api-carros <br>
+┣ 📜 main.py # Arquivo principal, inicializa o servidor Flask e define as rotas <br>
+┣ 📜 bd.py # "Banco de dados" simulado com uma lista de dicionários <br>
+┣ 📜 requirements.txt # Dependências do projeto <br>
+┗ 📜 README.md # Este arquivo 😄 <br>
 
 ---
 
