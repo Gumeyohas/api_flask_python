@@ -19,7 +19,7 @@ Tudo isso sem utilizar um banco de dados real, apenas manipulando uma lista de d
 
 ## 🧩 Estrutura do Projeto
 
-📂 api-carros <br>
+📂 api_flask_python <br>
 ┣ 📜 main.py # Arquivo principal, inicializa o servidor Flask e define as rotas <br>
 ┣ 📜 bd.py # "Banco de dados" simulado com uma lista de dicionários <br>
 ┣ 📜 requirements.txt # Dependências do projeto <br>
@@ -39,15 +39,15 @@ Tudo isso sem utilizar um banco de dados real, apenas manipulando uma lista de d
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seuusuario/api-carros.git
-cd api-carros
+git clone https://github.com/gumeyohas/api_flask_python.git
+cd api_flask_python
 ```
 
 ### 2. Criar e ativar um ambiente virtual (opcional, mas recomendado)
 ```
-python -m venv venv
-source venv/bin/activate   # Linux / Mac
-venv\Scripts\activate      # Windows
+virtualenv env_name
+source env_name/bin/activate   # Linux / Mac
+env_name\Scripts\activate      # Windows
 ```
 ### 3. Instalar dependências
 ```
